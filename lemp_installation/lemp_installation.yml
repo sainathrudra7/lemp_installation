@@ -1,4 +1,4 @@
-- hosts: security_group_web_server_dmz
+- hosts: security_group_jenkins_server_dmz
   become: true
   tasks:
   
